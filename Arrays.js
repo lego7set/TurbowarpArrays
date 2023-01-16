@@ -29,7 +29,7 @@ class MyExtension {
           blockType: Scratch.BlockType.REPORTER,
           text: 'Hello, world!'
         }
-      ]
+              ]
     };
   }
 
